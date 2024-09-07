@@ -134,7 +134,7 @@ class Thing {
 		       
 		    
 				flash.style.top = " " + (l = l - 5) + "px" + " ";
-				flash.style.width = "100px";
+				flash.style.width = "8em";
 				flash.style.zIndex = "20";
 				pointup.style.zIndex = "21";
 				pointup.style.top = " " + (m = m - 8) + "px" + " ";
